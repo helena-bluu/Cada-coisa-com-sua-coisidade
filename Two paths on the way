@@ -1,0 +1,86 @@
+# 🏹 The Hunger Games: Two Paths on the Way
+
+**The Hunger Games: Two Paths on the Way** is an interactive, choice-driven RPG developed with **Twine (Harlowe)** for an English Literature project inspired by Suzanne Collins' *The Hunger Games* series.
+
+Rather than following the story of Katniss Everdeen, players create their own tribute and experience a completely original journey through the arena. Every decision affects future events, relationships, available resources, and ultimately determines who survives.
+
+The project draws strong inspiration from the narrative design of **An Elmwood Trail**, particularly its iconic *"Two paths on the way. Which one do you choose?"* moments, where seemingly simple choices produce long-term consequences and multiple possible outcomes.
+
+## 🎮 Features
+
+### 🏹 Multiple Paths and Endings
+
+Players may choose radically different survival strategies:
+
+* Become an aggressive tribute and eliminate opponents.
+* Hide, gather resources, and outlast everyone else.
+* Form alliances that may save—or betray—you.
+* Unlock secret endings based on reputation and choices.
+
+Every playthrough can lead to a different outcome.
+
+### 🎒 Inventory System
+
+The game includes an inventory system that tracks:
+
+* Food
+* Water
+* Medicine
+* Weapons (knives and bows)
+* Rope and special items
+* Kill count
+* Reputation with the Capitol
+* Survival statistics
+
+Resource management is essential for staying alive.
+
+### ⚔️ Skill-Based Gameplay
+
+Tributes develop unique abilities through pre-game training:
+
+* **Combat Skill** increases success during fights.
+* **Survival Skill** improves resource management.
+* **Luck** influences random events throughout the arena.
+
+The player's decisions during training directly affect their chances of survival.
+
+### 🎯 Survival Minigames
+
+Several interactive mechanics were created to move beyond traditional branching stories:
+
+* Hunting minigames for obtaining food.
+* Fishing mechanics near rivers and lakes.
+* Water collection systems with clean and contaminated choices.
+* Randomized combat encounters.
+* Sponsor gifts delivered by drones.
+* Tracker Jacker events and environmental hazards.
+
+These systems encourage strategic thinking rather than simple trial-and-error choices.
+
+### 🌲 An Elmwood Trail Inspiration
+
+The project adapts the "Two Paths on the Way" concept into the world of Panem:
+
+> *Two paths on the way. Which one do you choose?*
+
+Players are frequently forced to make difficult decisions with incomplete information. A choice that appears safe may become deadly later, while an apparently useless item could save a life days afterward.
+
+The goal was to create a narrative experience where actions have meaningful and lasting consequences.
+
+### 📚 Educational Purpose
+
+This project was developed as part of an English assignment exploring English-language literature through interactive storytelling and programming.
+
+By combining literature, game design, and creative writing, the project demonstrates an alternative way of engaging with literary works while encouraging critical thinking, decision-making, and digital creativity.
+
+## 🛠️ Built With
+
+* **Twine**
+* **Harlowe Story Format**
+* HTML-based interactive storytelling mechanics
+
+## 👑 Final Question
+
+Will you survive through strength, intelligence, alliances, or pure luck?
+
+**May the odds be ever in your favor.**
